@@ -7,7 +7,6 @@ function card(props) {
         <img src={ props.imagecdn } className="img-fluid img-rounded" />
         <div>
           <p>
-
           </p>
         </div>
       </article>

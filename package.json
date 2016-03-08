@@ -78,6 +78,7 @@
     "webpack": "1.12.14"
   },
   "devDependencies": {
+    "axios": "^0.9.1",
     "babel-cli": "6.6.0",
     "babel-core": "6.6.0",
     "babel-eslint": "5.0.0",
